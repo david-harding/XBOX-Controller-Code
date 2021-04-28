@@ -1,4 +1,4 @@
-# Public_Source
+# XBOX Controller Code
 Source code, which the public can download
 You will need to include:
 XINPUT.LIB
