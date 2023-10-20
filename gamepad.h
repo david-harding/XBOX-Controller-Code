@@ -6,11 +6,10 @@
   File Name:		GamePad.h
 
   Author:			David B. Harding
-					2410 Rollingwood Drive
-					San Bruno CA, 94066
+					Lathrop CA, 95330
 					david@baycitygame.com
 
-					Copyright (c) 2021 Bay City Game
+					Copyright (c) 2021-2023 Bay City Game
 
   Description:		Compilation Unit for GamePad Abstract Data Type
 					Support for XBox Game Pad Controller type
