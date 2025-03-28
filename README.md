@@ -10,17 +10,31 @@ in your library path
 
 
 HRESULT rtn = CoInitializeEx(NULL, COINIT_MULTITHREADED);
+
 switch (rtn)
 {
+
 	case S_OK:
+ 
 		TRACE("CoInitializeEx(NULL, COINIT_MULTITHREADED) returned S_OK\n");
+  
 		break;
+  
 	case S_FALSE:
+ 
 		TRACE("CoInitializeEx(NULL, COINIT_MULTITHREADED) returned S_FALSE\n");
+  
 		break;
+  
 	case RPC_E_CHANGED_MODE:
+ 
 		TRACE("CoInitializeEx(NULL, COINIT_MULTITHREADED) returned RPC_E_CHANGED_MODE\n");
+  
 		break;
+  
 	default:
+ 
 		break;
+  
 };
+
