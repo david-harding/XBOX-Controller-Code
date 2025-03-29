@@ -8,7 +8,7 @@
 					San Bruno CA, 94066
 					david@baycitygame.com
 
-					Copyright (c) 2021 Bay City Game
+					Copyright (c) 2021 - 2025 Bay City Game
 
   Description:		Compilation Unit for GamePad Abstract Data Type
 					Support for XBox Game Pad Controller type
