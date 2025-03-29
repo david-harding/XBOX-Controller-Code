@@ -9,7 +9,7 @@
 					Lathrop CA, 95330
 					david@baycitygame.com
 
-					Copyright (c) 2021-2023 Bay City Game
+					Copyright (c) 2021-2025 Bay City Game
 
   Description:		Compilation Unit for GamePad Abstract Data Type
 					Support for XBox Game Pad Controller type
